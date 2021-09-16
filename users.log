@@ -1,0 +1,7 @@
+INFO:root:First Name: ChristopherLast Name: SlatteryStudentID: B00092939 2019-03-22 10:15:38
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2019 10:15:38] "[37mGET /insert?firstname=Christopher&lastname=Slattery&studentid=B00092939 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2019 10:15:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:First Name: ChristopherLast Name: SlatteryStudentID: B00092939 2019-03-22 10:16:24
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2019 10:16:24] "[37mGET /insert?firstname=Christopher&lastname=Slattery&studentid=B00092939 HTTP/1.1[0m" 200 -
+INFO:root:First Name: ChristopherLast Name: SlatteryStudentID: B00092939 2019-03-22 10:16:27
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2019 10:16:27] "[37mGET /insert?firstname=Christopher&lastname=Slattery&studentid=B00092939 HTTP/1.1[0m" 200 -
